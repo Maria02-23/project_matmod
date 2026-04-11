@@ -79,7 +79,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Наша команда →" %}}
     design:
       columns: '1'
 ---
