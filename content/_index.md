@@ -8,14 +8,19 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Проект Образование планетной системы
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Проект Образование планетной системы
+        Выполнили студенты НПИбд-02-23
+        Четвергова МВ,
+        Чигладзе МВ,
+        Тойчубекова АН,
+        Просина КМ,
+        Митрофанов ТА
   
   - block: collection
     content:
